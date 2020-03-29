@@ -8,6 +8,11 @@ body {
     overflow-x: hidden;
 }
 
+a.site-link {
+    color: white;
+    text-decoration: underline;
+}
+
 p {
     font-size: 20px;
 }
