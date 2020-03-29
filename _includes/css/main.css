@@ -16,6 +16,12 @@ p.small {
     font-size: 16px;
 }
 
+a.site-link, a:hover.site-link {
+    color: white;
+    text-decoration: outline;
+}
+
+
 a,
 a:hover,
 a:focus,
